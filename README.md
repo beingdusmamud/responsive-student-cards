@@ -10,7 +10,7 @@ This project demonstrates a **Responsive Student Cards** layout using **HTML**, 
 - **Customizable**: Easily extend and modify the profiles.
 
 ## Demo
-You can view a live demo of this project [here](#).
+You can view a live demo of this project [here](https://mamudcoding.blogspot.com/p/students-gallary.html).
 
 ## Installation
 1. Clone the repository:
